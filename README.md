@@ -17,7 +17,6 @@
 <a href="https://www.linkedin.com/in/namita-shastri-a14a09360" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="namita-shastri" height="30" width="40" />
 </a>
-
 <a href="https://instagram.com/namita_shastri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="namita_shastri" height="30" width="40" /></a>
 </p>
 

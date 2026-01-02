@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **shastrinamita08@gmail.com**
 
-- ⚡ Fun fact **When I’m not coding, I’m quietly making things happen as co-head of my diploma club.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/namita-shastri-a14a09360" target="_blank" rel="noopener noreferrer">

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shastri Namita</h1>
+<h1 align="center">Hi, I'm Shastri Namita</h1>
 <h3 align="center">CSE student exploring Full-Stack Development, AI, and ML with curiosity and creativity.</h3>
 
 <!-- <img align= "right" alt="coding" width="400" src="![codibg gif](https://github.com/user-attachments/assets/5afafe30-bc5b-4094-90f5-489b25f752ac)
